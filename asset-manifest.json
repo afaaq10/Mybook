@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/facebook/static/css/main.69f9d59f.css",
-    "main.js": "/facebook/static/js/main.82e12036.js",
-    "static/js/787.a46efa3f.chunk.js": "/facebook/static/js/787.a46efa3f.chunk.js",
-    "index.html": "/facebook/index.html",
-    "main.69f9d59f.css.map": "/facebook/static/css/main.69f9d59f.css.map",
-    "main.82e12036.js.map": "/facebook/static/js/main.82e12036.js.map",
-    "787.a46efa3f.chunk.js.map": "/facebook/static/js/787.a46efa3f.chunk.js.map"
+    "main.css": "/Mybook/static/css/main.69f9d59f.css",
+    "main.js": "/Mybook/static/js/main.478c5fbb.js",
+    "static/js/787.c61d05c6.chunk.js": "/Mybook/static/js/787.c61d05c6.chunk.js",
+    "index.html": "/Mybook/index.html",
+    "main.69f9d59f.css.map": "/Mybook/static/css/main.69f9d59f.css.map",
+    "main.478c5fbb.js.map": "/Mybook/static/js/main.478c5fbb.js.map",
+    "787.c61d05c6.chunk.js.map": "/Mybook/static/js/787.c61d05c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69f9d59f.css",
-    "static/js/main.82e12036.js"
+    "static/js/main.478c5fbb.js"
   ]
 }

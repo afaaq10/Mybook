@@ -60,14 +60,18 @@ function App() {
     </button>
    
                 </div>
-                
+       
               
             </div>
 
 
 
 
+         <footer >
 
+<p className="text-black flex justify-center mx-auto mt-48 text-sm text-blue-600 ">About . Help . More</p>
+<p className="text-black flex  justify-center mx-auto mt-5 text-sm text-blue-600">Facebook Inc</p>
+                </footer>
       
  
 

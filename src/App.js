@@ -37,7 +37,7 @@ function App() {
 
             </div> */}
 
-
+ {/* // "build": "react-scripts build && mv -f build/* docs ", // "build": "react-scripts build && mv -f build/* docs ", */}
 
             <div className="container flex">
                 <div className=" justify-center flex-column mx-auto ">

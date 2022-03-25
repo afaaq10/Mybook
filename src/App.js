@@ -41,7 +41,7 @@ function App() {
 
             <div className="container flex">
                 <div className=" justify-center flex-column mx-auto ">
-                    <h1 className="mx-auto text-center mt-4 font-monospace font-bold cursor-pointer justify-center text-2xl text-blue-700">facebook</h1>
+                    <h1 className="mx-auto text-center mt-4 font-monospace font-bold cursor-pointer justify-center text-2xl text-blue-700">mybook</h1>
 
                     <input className=" h-10 w-full border rounded mt-4 bg-gray-100 text-gray-900 text-sm mb-4" type="text" placeholder="Mobile number or email address" />
                     <input className=" h-10 w-full border rounded mt-4 bg-gray-100 text-gray-900 text-sm  mb-4" type="password" placeholder="Password" />

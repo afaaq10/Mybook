@@ -1,8 +1,8 @@
 {
-  "name": "facebook",
+  "name": "Mybook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://afaaq10.github.io/facebook",
+  "homepage": "https://afaaq10.github.io/Mybook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
